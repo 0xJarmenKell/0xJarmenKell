@@ -2,7 +2,11 @@
 <h3 align="center">A passionate frontend developer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=youssefyousry94&label=Profile%20views&color=0e75b6&style=flat" alt="youssefyousry94" /> </p>
 
-- 📫 How to reach me **youssefyousry994@gmail.com**
+![A passionate frontend developer](https://i.imgur.com/v3JIMWX.png)
+
+I'm Youssef Yousry, Experienced Frontend Web Developer with a passion for creating engaging and user-friendly digital experiences. Skilled in HTML, CSS, JavaScript, and modern frameworks like React. Proficient in translating design concepts into clean, efficient code and collaborating with cross-functional teams to deliver high-quality web applications. Committed to staying up-to-date with the latest industry trends and best practices in frontend development. Dedicated to providing seamless user experiences and optimizing website performance. Ready to contribute my expertise to innovative projects and help businesses achieve their digital goals.
+
+- 📫 How to reach me: youssefyousry994@gmail.com 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -11,9 +15,15 @@
 <a href="https://instagram.com/yousef_yousry94" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yousef_yousry94" height="30" width="40" /></a>
 </p>
 
+
 <h3 align="left">Languages and Tools:</h3>
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=react,ts,js,html,css,bootstrap,tailwindcss,figma,nodejs,express,mysql,mongodb)](https://skillicons.dev)
 
 
+<a align="left"> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YoussefYousry994)](https://github.com/anuraghazra/github-readme-stats)</a> 
 
+<a align="right">![GitHub stats](https://github-readme-stats.vercel.app/api?username=YoussefYousry994&show_icons=true)</a>
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=YoussefYousry994)  
 
