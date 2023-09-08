@@ -20,8 +20,8 @@ I'm Youssef Yousry, Experienced Frontend Web Developer with a passion for creati
 
 [![My Skills](https://skillicons.dev/icons?i=react,ts,js,html,css,bootstrap,tailwindcss,figma,nodejs,express,mysql,mongodb)](https://skillicons.dev)
 
-
-<a align="left"> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YoussefYousry994)](https://github.com/anuraghazra/github-readme-stats)</a> 
+<a align="left" href="#"> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=YulietM&theme=react&line_height=40&hide=css"/> </a>
+<!---- <a align="left"> [![Top Langs])](https://github.com/anuraghazra/github-readme-stats)</a> -->
 
 <a align="right">![GitHub stats](https://github-readme-stats.vercel.app/api?username=YoussefYousry994&show_icons=true)</a>
 
