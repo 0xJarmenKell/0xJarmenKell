@@ -18,7 +18,7 @@ I'm Youssef Yousry, Experienced Frontend Web Developer with a passion for creati
 
 <h3 align="left">Languages and Tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=react,ts,js,C#,.net,html,css,scss,bootstrap,tailwindcss,figma,nodejs,express,mysql,mongodb)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,ts,js,cs,dotnet,html,css,scss,bootstrap,tailwindcss,figma,nodejs,express,mysql)](https://skillicons.dev)
 
 <a align="left" href="#"> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=YoussefYousry994"/> </a>
 <!---- <a align="left"> [![Top Langs])](https://github.com/anuraghazra/github-readme-stats)</a> -->
