@@ -18,7 +18,7 @@ I'm Youssef Yousry, Experienced Software Engineer with a passion for creating en
 
 <h3 align="left">Languages and Tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=react,ts,js,python,bash,powershell,ansible,jenkins,linux,aws,git,docker,cs,html,css,scss,bootstrap,tailwindcss,webpack,vite,vscode,figma,nodejs,express,mysql,mongodb)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=redux,react,ts,js,python,bash,powershell,jenkins,linux,git,docker,cs,html,css,scss,bootstrap,tailwindcss,webpack,vite,vscode,figma,nodejs,express,mongodb)](https://skillicons.dev)
 
 <a align="left" href="#"> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=YoussefYousry994"/> </a>
 <!---- <a align="left"> [![Top Langs])](https://github.com/anuraghazra/github-readme-stats)</a> -->
