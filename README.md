@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Frontend Developer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=youssefyousry94&label=Profile%20views&color=0e75b6&style=flat" alt="youssefyousry94" /> </p>
 
-![A passionate Software Engineer](https://imgur.com/a/oCK9SOo)
+![A passionate Software Engineer]
 
 I'm Youssef Yousry, Experienced Frontend Developer with a passion for creating engaging and user-friendly digital experiences. Skilled in HTML, CSS, JavaScript, and modern frameworks like React. Proficient in translating design concepts into clean, efficient code and collaborating with cross-functional teams to deliver high-quality web applications. Committed to staying up-to-date with the latest industry trends and best practices in frontend development. Dedicated to providing seamless user experiences and optimizing website performance. Ready to contribute my expertise to innovative projects and help businesses achieve their digital goals.
 
