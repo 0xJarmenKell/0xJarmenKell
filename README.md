@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Youssef Yousry</h1>
 <h3 align="center">A Passionate Software Engineer</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=youssefyousry94&label=Profile%20views&color=0e75b6&style=flat" alt="youssefyousry94" /> </p>
 
 I'm Youssef Yousry, Experienced Software Engineer with a passion for creating engaging and user-friendly digital experiences. I am proficient in a variety of programming languages like JavaScript, TypeScript, Python, Ruby, C# and Skilled in HTML5, CSS3. Also modern Frontend frameworks like React, redux and Vuejs, Pinia and variety of design tools and software, including Adobe XD, Figma. I am also familiar With Backend Technologies like Nodejs, Express and ruby on rails. I
 Proficient in translating design concepts into clean, efficient code and collaborating with cross-functional teams to deliver high-quality web applications. Committed to staying up-to-date with the latest industry trends and best practices in frontend development. Dedicated to providing seamless user experiences and optimizing website performance. Ready to contribute my expertise to innovative projects and help businesses achieve their digital goals.
