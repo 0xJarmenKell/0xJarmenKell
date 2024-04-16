@@ -5,6 +5,7 @@
 </p>
 
 - 📫 How to reach me: youssefyousry994@gmail.com
+- Resume: https://yousrycv.netlify.app/
 - My Portfolio Website: https://youssefyousry994.github.io/Portfolio/
 
 <h3 align="left">Connect with me:</h3>
