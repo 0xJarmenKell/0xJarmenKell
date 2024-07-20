@@ -1,7 +1,14 @@
 <h1 align="center">Hi 👋, I'm Youssef Yousry</h1>
 <h3 align="center">A Passionate Penetration Tester | MERN Stack Developer | Software Engineer</h3>
 
-<p>Dedicated and skilled Software Engineer with expertise in System Administration and a comprehensive background in Networks and IT. Adept at crafting robust software solutions while seamlessly managing and optimizing system infrastructure. Possessing a passion for leveraging technology to drive efficiency, productivity, and innovation. Proven ability to collaborate effectively across interdisciplinary teams and adapt to dynamic environments. Committed to staying abreast of emerging technologies and industry trends to deliver cutting-edge solutions. Also, As a seasoned Security Engineer, I bring a blend of technical expertise, strategic insight, and proactive problem-solving skills to safeguard digital assets and mitigate Cybersecurity threats. With a solid foundation in network security, cryptography, and risk assessment, I am dedicated to ensuring the confidentiality, integrity, and availability of critical information systems. My proficiency extends across various domains, including cloud security, application security, and incident response, enabling me to develop robust defense mechanisms tailored to diverse environments. 
+<p>
+  Dedicated and skilled Software Engineer with expertise in System Administration and a comprehensive background in Networks and IT. Adept at crafting robust software solutions while seamlessly managing and optimizing system infrastructure. 
+</p>
+<p>
+I am a versatile developer with 2 years of experience in building and maintaining high-quality and complex Web Applications. With a background in computer science and a passion for coding, also have an experience in creating engaging and visually appealing digital experiences. 
+</p>
+<p>
+Proficient in a variety of programming languages like JavaScript, TypeScript, Python, Ruby, GoLang and Skilled in HTML5, CSS3. Also modern Frontend frameworks like React, redux and Vuejs, Pinia and variety of design tools and software, including Adobe XD, Figma. I am also familiar With Backend Technologies like Nodejs, Express and ruby on rails. Proficient in translating design concepts into clean, efficient code and collaborating with cross-functional teams to deliver high-quality web applications.
 </p>
 
 - 📫 How to reach me: youssefyousry994@gmail.com
