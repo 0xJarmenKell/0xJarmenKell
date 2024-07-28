@@ -5,7 +5,7 @@
   Dedicated and skilled Software Engineer with expertise in System Administration and a comprehensive background in Networks and IT. Adept at crafting robust software solutions while seamlessly managing and optimizing system infrastructure. 
 </p>
 <p>
-I am a versatile developer with 2 years of experience in building and maintaining high-quality and complex Web Applications. With a background in computer science and a passion for coding, also have an experience in creating engaging and visually appealing digital experiences. 
+I am a versatile developer experienced in building and maintaining high-quality and complex Web Applications. With a background in computer science and a passion for coding, also have an experience in creating engaging and visually appealing digital experiences. 
 </p>
 <p>
 Proficient in a variety of programming languages like JavaScript, TypeScript, Python, Ruby, GoLang and Skilled in HTML5, CSS3. Also modern Frontend frameworks like React, redux and Vuejs, Pinia and variety of design tools and software, including Adobe XD, Figma. I am also familiar With Backend Technologies like Nodejs, Express and ruby on rails. Proficient in translating design concepts into clean, efficient code and collaborating with cross-functional teams to deliver high-quality web applications.
