@@ -25,7 +25,7 @@ Proficient in a variety of programming languages like JavaScript, TypeScript, Py
 
 <h3 align="left">Languages and Tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=redux,react,ts,js,python,ruby,rails,bash,powershell,jenkins,linux,git,docker,cs,html,css,scss,bootstrap,tailwindcss,webpack,vite,vscode,figma,nodejs,express,mongodb)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=redux,react,ts,js,python,ruby,rails,bash,powershell,jenkins,linux,git,docker,angular,html,css,scss,bootstrap,tailwindcss,webpack,vite,vscode,figma,nodejs,express,mongodb)](https://skillicons.dev)
 
 <p>
   <a href="https://github.com/0xJarmenKell">
