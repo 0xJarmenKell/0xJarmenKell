@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Youssef Yousry</h1>
-<h3 align="center">A Software Engineer | MEAN Stack Developer | Cyber-Sec Enthusiast</h3>
+<h3 align="center">A Software Engineer | MFull Stack Developer | Cyber-Sec Enthusiast</h3>
 
 <p>
   Dedicated and skilled Software Engineer with expertise in System Administration and a comprehensive background in Networks and IT. Adept at crafting robust software solutions while seamlessly managing and optimizing system infrastructure. 
@@ -25,7 +25,7 @@ Proficient in a variety of programming languages like JavaScript, TypeScript, Py
 
 <h3 align="left">Languages and Tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=redux,react,ts,js,python,ruby,rails,bash,powershell,jenkins,linux,git,docker,angular,html,css,scss,bootstrap,tailwindcss,webpack,vite,vscode,figma,nodejs,express,mongodb)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=redux,react,ts,js,php,ruby,rails,bash,powershell,jenkins,linux,git,docker,angular,html,css,scss,bootstrap,tailwindcss,webpack,vite,vscode,figma,nodejs,express,mongodb)](https://skillicons.dev)
 
 <p>
   <a href="https://github.com/0xJarmenKell">
