@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="336" viewBox="0 0 900 336" fill="none" role="img" aria-label="What I do: engineering leadership, full-stack engineering, security &amp; DevSecOps">
+<title>What I do: engineering leadership, full-stack engineering, security &amp; DevSecOps</title>
+<style>
+.sans{font-family:'Segoe UI Variable Display','Segoe UI',-apple-system,BlinkMacSystemFont,Inter,'Helvetica Neue',Ubuntu,Arial,sans-serif}
+.mono{font-family:'JetBrains Mono','Cascadia Code','SF Mono',SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace}
+.in{animation:rise .6s cubic-bezier(.2,.7,.2,1) both}
+@keyframes rise{from{opacity:0;transform:translateY(6px)}}
+.blink{animation:blink 1.05s steps(1) infinite}
+@keyframes blink{50%{opacity:0}}
+@media (prefers-reduced-motion:reduce){*{animation:none!important}}
+.tile{animation:tile 4.5s ease-in-out infinite}
+@keyframes tile{50%{opacity:.55}}</style>
+<defs>
+<clipPath id="f-clip"><rect width="900" height="336" rx="20"/></clipPath>
+<linearGradient id="f-edge" x1="0" y1="0" x2="1" y2="1">
+  <stop offset="0" stop-color="#8B5CF6" stop-opacity=".75"/>
+  <stop offset=".45" stop-color="#1F1F35" stop-opacity=".9"/>
+  <stop offset="1" stop-color="#22D3EE" stop-opacity=".55"/>
+</linearGradient>
+<radialGradient id="f-spot" cx="0" cy="0" r="1">
+  <stop offset="0" stop-color="#fff" stop-opacity=".06"/>
+  <stop offset="1" stop-color="#fff" stop-opacity="0"/>
+</radialGradient><linearGradient id="g-violet" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#8B5CF6"/><stop offset="1" stop-color="#8B5CF6" stop-opacity=".35"/></linearGradient><linearGradient id="g-cyan" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#22D3EE"/><stop offset="1" stop-color="#22D3EE" stop-opacity=".35"/></linearGradient><linearGradient id="g-pink" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#F472B6"/><stop offset="1" stop-color="#F472B6" stop-opacity=".35"/></linearGradient></defs>
+<g clip-path="url(#f-clip)"><rect width="900" height="336" fill="#0C0C16"/><ellipse cx="0" cy="0" rx="540" ry="302" fill="url(#f-spot)"/>
+<text x="28" y="40" class="mono" font-size="11" letter-spacing="2.2" fill="#8B5CF6">02<tspan fill="#6C6C88"> / </tspan>WHAT I DO</text>
+<text x="28" y="72" class="sans" font-size="21" font-weight="700" fill="#EEEEF8">From architecture to production — end to end.</text>
+<g class="in" style="animation-delay:0.15s">
+<rect x="28" y="96" width="272" height="214" rx="14" fill="#11111E" stroke="#1F1F35"/>
+<path d="M42 96.5H148" stroke="#8B5CF6" stroke-width="1.5" opacity=".9"/>
+<rect class="tile" x="46" y="114" width="44" height="44" rx="11" fill="#8B5CF6" opacity=".18" filter="none" style="animation-delay:0.0s"/>
+<rect x="48" y="116" width="40" height="40" rx="10" fill="url(#g-violet)"/>
+<g transform="translate(48 116)" stroke="#fff" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round"><path d="M20 9 31 15 20 21 9 15Z"/><path d="M9 20.5 20 26.5 31 20.5"/><path d="M9 26 20 32 31 26"/></g>
+<text x="48" y="188" class="sans" font-size="16.5" font-weight="700" fill="#EEEEF8">Engineering Leadership</text>
+<text x="48" y="213" class="sans" font-size="13" fill="#A6A6C0">Founder &amp; CTO at Techverse.</text>
+<text x="48" y="233" class="sans" font-size="13" fill="#A6A6C0">Turning product vision into</text>
+<text x="48" y="253" class="sans" font-size="13" fill="#A6A6C0">scalable architecture — and</text>
+<text x="48" y="273" class="sans" font-size="13" fill="#A6A6C0">leading the teams that ship it.</text>
+<text x="48" y="290" class="mono" font-size="9.5" letter-spacing="1.2" fill="#8B5CF6">STRATEGY · ARCHITECTURE · TEAMS</text></g>
+<g class="in" style="animation-delay:0.30s">
+<rect x="316" y="96" width="272" height="214" rx="14" fill="#11111E" stroke="#1F1F35"/>
+<path d="M330 96.5H436" stroke="#22D3EE" stroke-width="1.5" opacity=".9"/>
+<rect class="tile" x="334" y="114" width="44" height="44" rx="11" fill="#22D3EE" opacity=".18" filter="none" style="animation-delay:1.2s"/>
+<rect x="336" y="116" width="40" height="40" rx="10" fill="url(#g-cyan)"/>
+<g transform="translate(336 116)" stroke="#fff" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round"><path d="M15 14 9 20.5 15 27"/><path d="M25 14 31 20.5 25 27"/><path d="M22.5 11.5 17.5 29.5"/></g>
+<text x="336" y="188" class="sans" font-size="16.5" font-weight="700" fill="#EEEEF8">Full-Stack Engineering</text>
+<text x="336" y="213" class="sans" font-size="13" fill="#A6A6C0">Angular, React &amp; Next.js on</text>
+<text x="336" y="233" class="sans" font-size="13" fill="#A6A6C0">Node.js, Express, Rails and</text>
+<text x="336" y="253" class="sans" font-size="13" fill="#A6A6C0">Supabase back-ends: platforms,</text>
+<text x="336" y="273" class="sans" font-size="13" fill="#A6A6C0">dashboards and marketplaces.</text>
+<text x="336" y="290" class="mono" font-size="9.5" letter-spacing="1.2" fill="#22D3EE">TYPESCRIPT · APIS · PRODUCT UX</text></g>
+<g class="in" style="animation-delay:0.45s">
+<rect x="604" y="96" width="272" height="214" rx="14" fill="#11111E" stroke="#1F1F35"/>
+<path d="M618 96.5H724" stroke="#F472B6" stroke-width="1.5" opacity=".9"/>
+<rect class="tile" x="622" y="114" width="44" height="44" rx="11" fill="#F472B6" opacity=".18" filter="none" style="animation-delay:2.4s"/>
+<rect x="624" y="116" width="40" height="40" rx="10" fill="url(#g-pink)"/>
+<g transform="translate(624 116)" stroke="#fff" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round"><path d="M20 8.5 30 12.5V20c0 6-4.5 10-10 12-5.5-2-10-6-10-12v-7.5Z"/><path d="M15.5 20.5 19 24l6-7"/></g>
+<text x="624" y="188" class="sans" font-size="16.5" font-weight="700" fill="#EEEEF8">Security &amp; DevSecOps</text>
+<text x="624" y="213" class="sans" font-size="13" fill="#A6A6C0">Roots in networks &amp; sys-admin.</text>
+<text x="624" y="233" class="sans" font-size="13" fill="#A6A6C0">CI/CD with Docker &amp; Jenkins,</text>
+<text x="624" y="253" class="sans" font-size="13" fill="#A6A6C0">hardened APIs, and red-team</text>
+<text x="624" y="273" class="sans" font-size="13" fill="#A6A6C0">research that informs defense.</text>
+<text x="624" y="290" class="mono" font-size="9.5" letter-spacing="1.2" fill="#F472B6">HARDENING · CI/CD · RED TEAM</text></g>
+</g><rect x=".5" y=".5" width="899" height="335" rx="19.5" fill="none" stroke="url(#f-edge)"/>
+</svg>

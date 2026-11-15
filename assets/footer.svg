@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="230" viewBox="0 0 900 230" fill="none" role="img" aria-label="Let&#x27;s build something remarkable — youssefyousry994@gmail.com">
+<title>Let&#x27;s build something remarkable — youssefyousry994@gmail.com</title>
+<style>
+.sans{font-family:'Segoe UI Variable Display','Segoe UI',-apple-system,BlinkMacSystemFont,Inter,'Helvetica Neue',Ubuntu,Arial,sans-serif}
+.mono{font-family:'JetBrains Mono','Cascadia Code','SF Mono',SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace}
+.in{animation:rise .6s cubic-bezier(.2,.7,.2,1) both}
+@keyframes rise{from{opacity:0;transform:translateY(6px)}}
+.blink{animation:blink 1.05s steps(1) infinite}
+@keyframes blink{50%{opacity:0}}
+@media (prefers-reduced-motion:reduce){*{animation:none!important}}
+.w1{animation:w1 9s linear infinite}.w2{animation:w2 13s linear infinite}
+@keyframes w1{to{transform:translateX(-300px)}}@keyframes w2{from{transform:translateX(-450px)}to{transform:translateX(0)}}</style>
+<defs>
+<clipPath id="ft-clip"><rect width="900" height="230" rx="20"/></clipPath>
+<linearGradient id="ft-edge" x1="0" y1="0" x2="1" y2="1">
+  <stop offset="0" stop-color="#8B5CF6" stop-opacity=".75"/>
+  <stop offset=".45" stop-color="#1F1F35" stop-opacity=".9"/>
+  <stop offset="1" stop-color="#22D3EE" stop-opacity=".55"/>
+</linearGradient>
+<radialGradient id="ft-spot" cx="0" cy="0" r="1">
+  <stop offset="0" stop-color="#fff" stop-opacity=".06"/>
+  <stop offset="1" stop-color="#fff" stop-opacity="0"/>
+</radialGradient>
+<linearGradient id="cta" x1="230" y1="0" x2="670" y2="0" gradientUnits="userSpaceOnUse">
+  <stop offset="0" stop-color="#C4B5FD"/><stop offset=".5" stop-color="#fff"/>
+  <stop offset="1" stop-color="#67E8F9"/></linearGradient>
+<linearGradient id="w1" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#8B5CF6"/>
+  <stop offset="1" stop-color="#22D3EE"/></linearGradient></defs>
+<g clip-path="url(#ft-clip)"><rect width="900" height="230" fill="#0C0C16"/><ellipse cx="0" cy="0" rx="540" ry="207" fill="url(#ft-spot)"/>
+<path class="w2" d="M0 196Q112 187 225 196T450 196Q562 187 675 196T900 196Q1012 187 1125 196T1350 196Q1462 187 1575 196T1800 196V240H0Z" fill="url(#w1)" opacity=".16"/>
+<path class="w1" d="M0 206Q75 199 150 206T300 206Q375 199 450 206T600 206Q675 199 750 206T900 206Q975 199 1050 206T1200 206Q1275 199 1350 206T1500 206Q1575 199 1650 206T1800 206V240H0Z" fill="url(#w1)" opacity=".28"/>
+<text x="450.0" y="70" text-anchor="middle" class="mono" font-size="11" letter-spacing="2.4" fill="#8B5CF6">06<tspan fill="#6C6C88"> / </tspan>CONTACT</text>
+<text x="450.0" y="110" text-anchor="middle" class="sans" font-size="30" font-weight="800" letter-spacing="-.6" fill="url(#cta)">Let’s build something remarkable.</text>
+<text x="450.0" y="140" text-anchor="middle" class="sans" font-size="15" fill="#A6A6C0">Open to collaborations, consulting &amp; senior engineering roles.</text>
+<text x="450.0" y="170" text-anchor="middle" class="mono" font-size="13" fill="#22D3EE">→ youssefyousry994@gmail.com</text>
+</g><rect x=".5" y=".5" width="899" height="229" rx="19.5" fill="none" stroke="url(#ft-edge)"/>
+</svg>

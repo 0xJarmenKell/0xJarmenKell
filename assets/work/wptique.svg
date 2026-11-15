@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="440" height="200" viewBox="0 0 440 200" fill="none" role="img" aria-label="WPtique Marketplace — Digital marketplace for themes, plugins &amp; code — Stripe checkout, subscription tiers, licensing, reviews and a complete admin dashboard.">
+<title>WPtique Marketplace — Digital marketplace for themes, plugins &amp; code — Stripe checkout, subscription tiers, licensing, reviews and a complete admin dashboard.</title>
+<style>
+.sans{font-family:'Segoe UI Variable Display','Segoe UI',-apple-system,BlinkMacSystemFont,Inter,'Helvetica Neue',Ubuntu,Arial,sans-serif}
+.mono{font-family:'JetBrains Mono','Cascadia Code','SF Mono',SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace}
+.in{animation:rise .6s cubic-bezier(.2,.7,.2,1) both}
+@keyframes rise{from{opacity:0;transform:translateY(6px)}}
+.blink{animation:blink 1.05s steps(1) infinite}
+@keyframes blink{50%{opacity:0}}
+@media (prefers-reduced-motion:reduce){*{animation:none!important}}
+.sheen{animation:sheen 6s ease-in-out infinite}
+@keyframes sheen{0%{transform:translateX(-160px)}60%,100%{transform:translateX(480px)}}</style>
+<defs>
+<clipPath id="p-clip"><rect width="440" height="200" rx="16"/></clipPath>
+<linearGradient id="p-edge" x1="0" y1="0" x2="1" y2="1">
+  <stop offset="0" stop-color="#8B5CF6" stop-opacity=".75"/>
+  <stop offset=".45" stop-color="#1F1F35" stop-opacity=".9"/>
+  <stop offset="1" stop-color="#22D3EE" stop-opacity=".55"/>
+</linearGradient>
+<radialGradient id="p-spot" cx="0" cy="0" r="1">
+  <stop offset="0" stop-color="#fff" stop-opacity=".06"/>
+  <stop offset="1" stop-color="#fff" stop-opacity="0"/>
+</radialGradient>
+<radialGradient id="glow" cx="1" cy="0" r="1"><stop offset="0" stop-color="#22D3EE" stop-opacity=".22"/>
+  <stop offset="1" stop-color="#22D3EE" stop-opacity="0"/></radialGradient>
+<linearGradient id="top" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#22D3EE" stop-opacity="0"/>
+  <stop offset=".5" stop-color="#22D3EE"/><stop offset="1" stop-color="#22D3EE" stop-opacity="0"/></linearGradient></defs>
+<g clip-path="url(#p-clip)"><rect width="440" height="200" fill="#0C0C16"/><ellipse cx="0" cy="0" rx="264" ry="180" fill="url(#p-spot)"/>
+<rect width="440" height="200" fill="url(#glow)"/>
+<rect class="sheen" x="0" y="0" width="160" height="1.5" fill="url(#top)" style="animation-delay:0.7s"/>
+<g transform="translate(24 25)" stroke="#22D3EE" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="M3 2.5A1.5 1.5 0 0 1 4.5 1h10v13h-10A1.5 1.5 0 0 0 3 15.5Z"/><path d="M3 15.5A1.5 1.5 0 0 0 4.5 17h10v-3"/><path d="M6.5 4.5h5"/></g>
+<text x="52" y="40" class="sans" font-size="17.5" font-weight="700" fill="#EEEEF8">WPtique Marketplace</text>
+<text x="52" y="60" class="mono" font-size="11" fill="#6C6C88">0xJarmenKell/wptique-marketplace</text>
+<rect x="351.9" y="24.0" width="64.1" height="22" rx="11.0" fill="#22D3EE" fill-opacity=".08" stroke="#22D3EE" stroke-opacity=".32"/><text x="361.9" y="38.4" class="mono" font-size="9.5" letter-spacing="0.6" fill="#22D3EE">PRODUCT</text>
+<text x="24" y="94" class="sans" font-size="13.5" fill="#A6A6C0">Digital marketplace for themes, plugins &amp; code —</text>
+<text x="24" y="114" class="sans" font-size="13.5" fill="#A6A6C0">Stripe checkout, subscription tiers, licensing,</text>
+<text x="24" y="134" class="sans" font-size="13.5" fill="#A6A6C0">reviews and a complete admin dashboard.</text>
+<rect x="24.0" y="156.0" width="54.5" height="24" rx="12.0" fill="#A6A6C0" fill-opacity=".08" stroke="#A6A6C0" stroke-opacity=".32"/><text x="34.0" y="171.8" class="mono" font-size="10.5" letter-spacing="0.6" fill="#A6A6C0">React</text>
+<rect x="84.5" y="156.0" width="89.0" height="24" rx="12.0" fill="#A6A6C0" fill-opacity=".08" stroke="#A6A6C0" stroke-opacity=".32"/><text x="94.5" y="171.8" class="mono" font-size="10.5" letter-spacing="0.6" fill="#A6A6C0">TypeScript</text>
+<rect x="179.5" y="156.0" width="75.2" height="24" rx="12.0" fill="#A6A6C0" fill-opacity=".08" stroke="#A6A6C0" stroke-opacity=".32"/><text x="189.5" y="171.8" class="mono" font-size="10.5" letter-spacing="0.6" fill="#A6A6C0">Supabase</text>
+<rect x="260.7" y="156.0" width="61.4" height="24" rx="12.0" fill="#A6A6C0" fill-opacity=".08" stroke="#A6A6C0" stroke-opacity=".32"/><text x="270.7" y="171.8" class="mono" font-size="10.5" letter-spacing="0.6" fill="#A6A6C0">Stripe</text>
+<rect x="328.1" y="156.0" width="75.2" height="24" rx="12.0" fill="#A6A6C0" fill-opacity=".08" stroke="#A6A6C0" stroke-opacity=".32"/><text x="338.1" y="171.8" class="mono" font-size="10.5" letter-spacing="0.6" fill="#A6A6C0">Tailwind</text>
+</g><rect x=".5" y=".5" width="439" height="199" rx="15.5" fill="none" stroke="url(#p-edge)"/>
+</svg>

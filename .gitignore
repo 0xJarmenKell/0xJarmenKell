@@ -1,0 +1,5 @@
+# local preview helpers — not part of the profile
+.preview/
+.claude/
+__pycache__/
+.git
